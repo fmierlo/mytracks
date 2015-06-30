@@ -1,0 +1,1 @@
+We no longer update the open source version of My Tracks, and we will remove these sources after 1/1/15.
